@@ -11,5 +11,5 @@ $ gulp test
 
 MIT © [Steven Testa]()
 
-[travis-image]: https://travis-ci.org/stesta/computing-system-javascript.svg?branch=master
-[travis-url]: https://travis-ci.org/stesta/computing-system-javascript
+[travis-image]: https://travis-ci.org/stesta/ComputingSystem-Javascript.svg?branch=master
+[travis-url]: https://travis-ci.org/stesta/ComputingSystem-Javascript
