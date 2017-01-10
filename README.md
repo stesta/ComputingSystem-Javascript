@@ -1,4 +1,4 @@
-# computing-system-javascript [![Build Status][travis-image]][travis-url]
+# ComputingSystem-Javascript [![Build Status][travis-image]][travis-url]
 > Elements of Computing Systems. The core components of a modern computer: logic gates, the alu, etc. Built from the ground up.
 
 
